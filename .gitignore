@@ -22,5 +22,3 @@ node_modules
 *.sln
 *.sw?
 
-# Local Netlify folder
-.netlify
